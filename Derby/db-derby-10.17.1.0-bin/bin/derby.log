@@ -1,0 +1,14 @@
+Thu Apr 10 09:45:49 CEST 2025 : Apache Derby Network Server - 10.17.1.0 - (1913217) started and ready to accept connections on port 50000
+----------------------------------------------------------------
+Thu Apr 10 09:46:46 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0196-1ea9-86d1-000007380580 
+on database directory /Users/emmi/Documents/Skola/Backend/Derby/db-derby-10.17.1.0-bin/bin/hibernate with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@63c12fb0 
+Loaded from file:/Users/emmi/Documents/Skola/Backend/Derby/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.4+7-LTS
+user.dir=/Users/emmi/Documents/Skola/Backend/Derby/db-derby-10.17.1.0-bin/bin
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.3.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
